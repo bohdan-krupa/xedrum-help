@@ -57,6 +57,10 @@ h1 {
   color: #333;
   margin-top: 50px; }
 
+.profile-container {
+  position: relative;
+  left: 50%; }
+
 .avatar {
   width: 300px;
   height: 300px;
