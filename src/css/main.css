@@ -59,7 +59,8 @@ h1 {
 
 .profile-container {
   position: relative;
-  left: 50%; }
+  left: 50%;
+  transform: translateX(-50%); }
 
 .avatar {
   width: 300px;
