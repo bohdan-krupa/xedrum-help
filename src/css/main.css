@@ -58,6 +58,7 @@ h1 {
   margin-top: 50px; }
 
 .profile-container {
+  width: 300px;
   margin: 0 auto; }
 
 .avatar {
