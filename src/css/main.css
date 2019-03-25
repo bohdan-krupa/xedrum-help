@@ -69,7 +69,7 @@ h1 {
     background-image: url("https://downloadwallpaper.org/wp-content/uploads/2017/07/Kyle-Cooley-full-thick-beard-mustache-beards-bearded-man-men-mens-style-barber-haircut-hair-style-wallpaper-wp4607632.jpg");
     background-size: cover;
     border-radius: 100%; }
-  .profile-container .fa-phone {
+  .profile-container .phone * {
     color: #333; }
   .profile-container .phone a {
     color: #333; }
