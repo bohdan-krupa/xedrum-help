@@ -19,7 +19,11 @@ Vue.component('profile', {
 		<div class="avatar"></div>
 		<div class="phone">
 			<i class="fas fa-phone"></i>
-			<span>+380 96 665-14-69</span>
+			<a href="tel:+380966651469">+380 96 665-14-69</a>
+		</div>
+		<div class="instagram">
+			<i class="fab fa-instagram"></i>
+			<a href="https://www.instagram.com/xedrum_help">@xedrum_help</a>
 		</div>
 		<ul>
 			<li v-for="skill in skills">{{ skill }}</li>
