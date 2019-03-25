@@ -79,7 +79,8 @@ h1 {
       text-align: center; }
     .profile-container .phone i,
     .profile-container .instagram i {
-      font-size: 25px; }
+      font-size: 25px;
+      margin-bottom: 5px; }
   .profile-container ul {
     list-style-type: disc;
     margin: 40px 0 0 40px; }
