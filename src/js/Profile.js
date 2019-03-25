@@ -17,6 +17,7 @@ Vue.component('profile', {
 	},
 	template: `<div class="profile-container">
 		<div class="avatar"></div>
+		<div class="phone"></div>
 		<ul>
 			<li v-for="skill in skills">{{ skill }}</li>
 		</ul>
