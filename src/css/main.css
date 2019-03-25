@@ -58,14 +58,14 @@ h1 {
   margin-top: 50px; }
 
 .profile-container {
-  width: 300px;
+  width: 250px;
   margin: 50px auto 0 auto;
   font-family: 'Montserrat';
   line-height: 170%;
   letter-spacing: 0.7px; }
   .profile-container .avatar {
     width: inherit;
-    height: 300px;
+    height: 250px;
     background-image: url("https://downloadwallpaper.org/wp-content/uploads/2017/07/Kyle-Cooley-full-thick-beard-mustache-beards-bearded-man-men-mens-style-barber-haircut-hair-style-wallpaper-wp4607632.jpg");
     background-size: cover;
     border-radius: 100%; }
