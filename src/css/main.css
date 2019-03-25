@@ -70,6 +70,8 @@ h1 {
     background-size: cover;
     border-radius: 100%; }
   .profile-container .phone {
+    width: 20px;
+    height: 20px;
     background-image: url("../images/phone.svg"); }
   .profile-container ul {
     list-style-type: disc;
