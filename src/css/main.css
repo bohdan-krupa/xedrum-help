@@ -71,7 +71,7 @@ h1 {
     border-radius: 100%; }
   .profile-container .fa-phone {
     color: #333; }
-    .profile-container .fa-phone:after {
+    .profile-container .fa-phone:after() {
       font-family: 'Montserrat'; }
   .profile-container ul {
     list-style-type: disc;
