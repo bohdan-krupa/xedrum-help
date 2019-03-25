@@ -23,7 +23,7 @@ Vue.component('profile', {
 		</div>
 		<div class="instagram">
 			<i class="fab fa-instagram"></i>
-			<a href="https://www.instagram.com/xedrum_help">@xedrum.help</a>
+			<a href="https://www.instagram.com/xedrum.help">@xedrum.help</a>
 		</div>
 		<ul>
 			<li v-for="skill in skills">{{ skill }}</li>
