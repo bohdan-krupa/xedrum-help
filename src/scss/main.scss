@@ -40,7 +40,12 @@ h1 {
 
 	.fa-phone {
 		color: #333;
-		font-family: 'Montserrat';
+
+
+		&:after {
+			font-family: 'Montserrat';
+
+		}
 	}
 
 	ul {
