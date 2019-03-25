@@ -17,7 +17,10 @@ Vue.component('profile', {
 	},
 	template: `<div class="profile-container">
 		<div class="avatar"></div>
-		<i class="fas fa-phone">+380 96 665-14-69</i>
+		<div class="phone">
+			<i class="fas fa-phone"></i>
+			<span>+380 96 665-14-69</span>
+		</div>
 		<ul>
 			<li v-for="skill in skills">{{ skill }}</li>
 		</ul>
