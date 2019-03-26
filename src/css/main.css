@@ -77,7 +77,7 @@ h1 {
   .profile-container .avatar-container {
     width: 300px;
     height: 300px;
-    margin-bottom: 80px; }
+    margin-bottom: 90px; }
     .profile-container .avatar-container .avatar {
       position: relative;
       left: 50%;
@@ -90,6 +90,9 @@ h1 {
       border-radius: 100%;
       animation: avatar 1s;
       animation-timing-funcion: easy; }
+  .profile-container ul {
+    list-style-type: disc;
+    margin: 30px 0 0 40px; }
   .profile-container .phone,
   .profile-container .instagram {
     margin-top: 25px; }
@@ -102,9 +105,6 @@ h1 {
     .profile-container .instagram i {
       font-size: 22px;
       margin-bottom: 4px; }
-  .profile-container ul {
-    list-style-type: disc;
-    margin: 40px 0 0 40px; }
 
 footer {
   margin: 50px 0 18px 0;
