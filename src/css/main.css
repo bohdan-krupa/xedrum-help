@@ -92,7 +92,7 @@ h1 {
       animation-timing-funcion: easy; }
   .profile-container .phone,
   .profile-container .instagram {
-    margin-top: 40px; }
+    margin-top: 50px; }
     .profile-container .phone *,
     .profile-container .instagram * {
       display: block;
@@ -107,7 +107,7 @@ h1 {
     margin: 40px 0 0 40px; }
 
 footer {
-  margin: 80px 0 18px 0;
+  margin: 50px 0 18px 0;
   text-align: center; }
   footer * {
     display: inline;
