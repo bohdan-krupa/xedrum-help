@@ -16,7 +16,9 @@ Vue.component('profile', {
 		}
 	},
 	template: `<div class="profile-container">
-		<div class="avatar"></div>
+		<div class="avatar-container">
+			<div class="avatar"></div>
+		</div>
 		<div class="phone">
 			<i class="fas fa-phone"></i>
 			<a href="tel:+380966651469">+380 96 665-14-69</a>
