@@ -37,13 +37,17 @@ h1 {
 
 
 	.avatar-container {
+		position: relative;
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%, -50%);
 		width: 300px;
 		height: 300px;
 		margin-bottom: 50px;
 
 
 		.avatar {
-			position: relative;
+			position: absolute;
 			left: 50%;
 			top: 50%;
 			transform: translate(-50%, -50%);
@@ -98,6 +102,7 @@ footer {
 		font-size: 32px;
 	}
 
+	.profile-container .avatar-container,
 	.profile-container .avatar-container .avatar {
 		width: 250px;
 		height: 250px;
