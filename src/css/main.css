@@ -75,12 +75,12 @@ h1 {
   line-height: 170%;
   letter-spacing: 0.7px; }
   .profile-container .avatar-container {
-    position: absolute;
+    position: relative;
     width: 300px;
     height: 300px;
     margin-bottom: 50px; }
     .profile-container .avatar-container .avatar {
-      position: relative;
+      position: absolute;
       left: 50%;
       top: 50%;
       transform: translate(-50%, -50%);
