@@ -78,6 +78,7 @@ h1 {
     .profile-container .avatar-container .avatar {
       position: relative;
       left: 50%;
+      top: 50%;
       transform: translateX(-50%);
       width: inherit;
       height: inherit;
