@@ -39,8 +39,6 @@ h1 {
 	.avatar-container {
 		position: relative;
 		left: 50%;
-		// top: 50%;
-		// transform: translate(-50%, -50%);
 		transform: translateX(-50%);
 		width: 300px;
 		height: 300px;
@@ -52,8 +50,8 @@ h1 {
 			left: 50%;
 			top: 50%;
 			transform: translate(-50%, -50%);
-			width: 300px;
-			height: 300px;
+			width: inherit;
+			height: inherit;
 			background-image: url('https://downloadwallpaper.org/wp-content/uploads/2017/07/Kyle-Cooley-full-thick-beard-mustache-beards-bearded-man-men-mens-style-barber-haircut-hair-style-wallpaper-wp4607632.jpg');
 			background-size: cover;
 			border-radius: 100%;
