@@ -87,7 +87,7 @@ h1 {
     width: 300px;
     height: 300px;
     margin-bottom: 50px;
-    animation: avatar2 1s infinite;
+    animation: avatar2 1s infinite alternate;
     animation-timing-funcion: easy; }
     .profile-container .avatar-container .avatar {
       position: absolute;
