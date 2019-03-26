@@ -114,9 +114,3 @@ footer {
     font-family: 'Montserrat';
     font-size: 13px;
     color: #333; }
-
-@media screen and (max-width: 550px) {
-  h1 {
-    font-size: 32px; }
-  footer * {
-    font-size: 11px; } }
