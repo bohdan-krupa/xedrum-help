@@ -77,7 +77,7 @@ h1 {
   .profile-container .avatar-container {
     width: 300px;
     height: 300px;
-    margin-bottom: 90px; }
+    margin-bottom: 70px; }
     .profile-container .avatar-container .avatar {
       position: relative;
       left: 50%;
@@ -91,7 +91,8 @@ h1 {
       animation: avatar 1s;
       animation-timing-funcion: easy; }
   .profile-container ul {
-    list-style-type: disc; }
+    list-style-type: disc;
+    margin: 40px 0 0 40px; }
   .profile-container .phone,
   .profile-container .instagram {
     margin-top: 25px; }
