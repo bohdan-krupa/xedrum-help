@@ -118,7 +118,7 @@ footer {
 @media screen and (max-width: 550px) {
   h1 {
     font-size: 32px; }
-  .avatar-container {
+  .profile-container .avatar-container {
     width: 250px;
     height: 150px; }
   footer * {
