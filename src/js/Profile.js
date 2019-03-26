@@ -19,6 +19,9 @@ Vue.component('profile', {
 		<div class="avatar-container">
 			<div class="avatar"></div>
 		</div>
+		<ul>
+			<li v-for="skill in skills">{{ skill }}</li>
+		</ul>
 		<div class="phone">
 			<i class="fas fa-phone"></i>
 			<a href="tel:+380966651469">+380 96 665-14-69</a>
@@ -27,9 +30,6 @@ Vue.component('profile', {
 			<i class="fab fa-instagram"></i>
 			<a href="https://www.instagram.com/xedrum.help">@xedrum.help</a>
 		</div>
-		<ul>
-			<li v-for="skill in skills">{{ skill }}</li>
-		</ul>
 	</div>`
 })
 
