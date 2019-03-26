@@ -22,7 +22,10 @@ h1 {
 	margin-top: 50px;
 }
 
-
+@keyframes avatar {
+	0% { width: 200px; height: 200px; }
+	100%: { width: 300px; height: 300px; }
+}
 
 .profile-container {
 	width: 300px;
@@ -63,11 +66,6 @@ h1 {
 		list-style-type: disc;
 		margin: 40px 0 0 40px;
 	}
-}
-
-@keyframes avatar {
-	0% { width: 200px; height: 200px; }
-	100%: { width: 300px; height: 300px; }
 }
 
 footer {
